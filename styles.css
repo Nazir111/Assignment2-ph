@@ -279,29 +279,29 @@
     flex: 1;
   }
   
-  .footer-heading {
+  .footer-getstarted {
     font-size: 1.2em;
     color: #ffffff;
     margin-bottom: 15px;
     font-weight: bold;
   }
   
-  .footer-list {
+  .footer-element {
     list-style: none;
     padding: 0;
   }
   
-  .footer-list li {
+  .footer-element li {
     margin-bottom: 10px;
   }
   
-  .footer-list li a {
+  .footer-element li a {
     color: #d3d3d3;
     text-decoration: none;
     font-size: 0.95em;
   }
   
-  .footer-list li a:hover {
+  .footer-element li a:hover {
     color: #ffffff;
   }
   
