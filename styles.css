@@ -162,8 +162,22 @@
 }
 
 .habit-element {
-    display: flex;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 
+}
+.habit-item {
+  text-align: center;
+}
+
+.habit-item img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 5px solid #333;
 }
 
 /* Run Extra mile Section */
